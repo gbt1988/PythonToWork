@@ -1,0 +1,89 @@
+ 2020-02-26 11:29:57,031 - DEBUG - Start of program
+ 2020-02-26 11:29:57,031 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:29:57,031 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:29:57,031 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:29:57,031 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:29:57,031 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:29:57,031 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:29:57,031 - DEBUG - End of factorial(5)
+ 2020-02-26 11:29:57,068 - DEBUG - End of program
+ 2020-02-26 11:31:54,209 - DEBUG - Start of program
+ 2020-02-26 11:31:54,210 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:31:54,210 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:31:54,210 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:31:54,210 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:31:54,210 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:31:54,211 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:31:54,211 - DEBUG - End of factorial(5)
+ 2020-02-26 11:31:54,255 - DEBUG - End of program
+ 2020-02-26 11:33:39,230 - DEBUG - Start of program
+ 2020-02-26 11:33:44,142 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:33:44,142 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:33:44,143 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:33:44,143 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:33:44,143 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:33:44,143 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:33:44,143 - DEBUG - End of factorial(5)
+ 2020-02-26 11:33:44,868 - DEBUG - End of program
+ 2020-02-26 11:34:43,140 - DEBUG - Start of program
+ 2020-02-26 11:34:44,348 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:34:44,348 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:34:44,348 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:34:44,348 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:34:44,348 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:34:44,349 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:34:44,349 - DEBUG - End of factorial(5)
+ 2020-02-26 11:34:44,398 - DEBUG - End of program
+ 2020-02-26 11:38:27,130 - DEBUG - Start of program
+ 2020-02-26 11:38:28,452 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:38:28,452 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:38:28,452 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:38:28,452 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:38:28,452 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:38:28,452 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:38:28,453 - DEBUG - End of factorial(5)
+ 2020-02-26 11:38:28,878 - DEBUG - End of program
+ 2020-02-26 11:38:35,151 - DEBUG - Start of program
+ 2020-02-26 11:38:35,151 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:38:35,151 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:38:35,151 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:38:35,151 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:38:35,151 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:38:35,152 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:38:35,152 - DEBUG - End of factorial(5)
+ 2020-02-26 11:38:35,185 - DEBUG - End of program
+ 2020-02-26 11:38:44,770 - DEBUG - Start of program
+ 2020-02-26 11:38:44,771 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:38:44,771 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:38:44,771 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:38:44,771 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:38:44,772 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:38:44,773 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:38:44,773 - DEBUG - End of factorial(5)
+ 2020-02-26 11:38:44,819 - DEBUG - End of program
+ 2020-02-26 11:39:02,270 - DEBUG - Start of program
+ 2020-02-26 11:39:02,271 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:39:02,271 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:39:02,271 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:39:02,271 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:39:02,271 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:39:02,272 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:39:02,272 - DEBUG - End of factorial(5)
+ 2020-02-26 11:39:02,320 - DEBUG - End of program
+ 2020-02-26 11:39:09,820 - DEBUG - Start of program
+ 2020-02-26 11:39:09,821 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:39:09,821 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:39:09,821 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:39:09,821 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:39:09,821 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:39:09,822 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:39:09,822 - DEBUG - End of factorial(5)
+ 2020-02-26 11:39:09,855 - DEBUG - End of program
+ 2020-02-26 11:39:36,321 - DEBUG - Start of program
+ 2020-02-26 11:39:37,015 - DEBUG - Start of factorial(5)
+ 2020-02-26 11:39:37,015 - DEBUG - i is 1, total is 1
+ 2020-02-26 11:39:37,015 - DEBUG - i is 2, total is 2
+ 2020-02-26 11:39:37,015 - DEBUG - i is 3, total is 6
+ 2020-02-26 11:39:37,016 - DEBUG - i is 4, total is 24
+ 2020-02-26 11:39:37,016 - DEBUG - i is 5, total is 120
+ 2020-02-26 11:39:37,016 - DEBUG - End of factorial(5)

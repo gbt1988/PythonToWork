@@ -1,3 +1,0 @@
-Traceback (most recent call last):
-  File "<pyshell#102>", line 2, in <module>
-Exception: this is the error
